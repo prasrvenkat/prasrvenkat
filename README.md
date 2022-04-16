@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Backend, Data and Infrastructure Engineering
 - 🌱 I’m currently learning ... UX Design and Rust
 - 💞️ I’m looking to collaborate on ... Part-Time and Discrete Projects
-- 📫 How to reach me ... https://www.linkedin.com/in/vpram86/
+- 📫 How to reach me ... https://weareindy.com/profiles/PrasannaRamVenkatachalam
 
 <!---
 prasrvenkat/prasrvenkat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
