@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prasrvenkat
+- 👋 Hi, I’m Pras
 
 <!---
 prasrvenkat/prasrvenkat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
